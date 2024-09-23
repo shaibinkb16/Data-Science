@@ -1,5 +1,5 @@
-print("SJC22MCA-2007 : ANJALA MICHAEL")
-print("Batch : MCA 2022-24")
+print("SJC23MCA-2050 : Shaibin K B")
+print("Batch : MCA 2023-25")
 import pandas as pd
 df = pd.read_csv('iris.csv')
 print("Shape of the dataset is : ",df.shape)
