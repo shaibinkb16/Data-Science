@@ -1,3 +1,6 @@
+print("SJC23MCA-2050 : SHAIBIN K B")
+print("Batch : MCA 2023-25")
+
 import matplotlib.pyplot as plt
 import numpy as np
 month =np.array(['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'])

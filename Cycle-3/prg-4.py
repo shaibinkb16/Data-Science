@@ -1,3 +1,6 @@
+print("SJC23MCA-2050 : SHAIBIN K B")
+print("Batch : MCA 2023-25")
+
 import matplotlib.pyplot as plt
 import numpy as np
 month =np.array(['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'])
@@ -11,5 +14,5 @@ plt.xlabel('Months of Year', fontsize=18)
 plt.ylabel('Sales of Segments')
 plt.title('Sales Data')
 plt.title('Shaibin K B\nMCA 2023-2025', loc='right')
-plt.savefig("./Outputs/prg-4.png")
+plt.savefig("./Outputs/prg-3.1.png")
 plt.show()

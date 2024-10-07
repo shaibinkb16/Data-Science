@@ -1,3 +1,6 @@
+print("SJC23MCA-2050 : SHAIBIN K B")
+print("Batch : MCA 2023-25")
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt

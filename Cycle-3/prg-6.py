@@ -1,3 +1,6 @@
+print("SJC23MCA-2050 : SHAIBIN K B")
+print("Batch : MCA 2023-25")
+
 import matplotlib.pyplot as plt
 import numpy as np
 x = np.random.normal([61, 63, 64, 66, 68, 69, 71, 71.5, 72, 72.5, 73, 73.5, 74,
@@ -7,5 +10,5 @@ plt.title('Cherry tree heights',loc='left')
 plt.title('Shaibin K B\nMCA 2023-2025', loc='right')
 plt.xlabel('Height (in inches)')
 plt.ylabel('Frequency')
-plt.savefig("./Outputs/prg-6.png")
+plt.savefig("./Outputs/6.png")
 plt.show()

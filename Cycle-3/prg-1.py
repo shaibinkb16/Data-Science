@@ -1,3 +1,6 @@
+print("SJC23MCA-2050 : SHAIBIN K B")
+print("Batch : MCA 2023-25")
+
 import matplotlib.pyplot as plt
 years = [2001, 2002, 2003, 2004, 2005, 2006, 2007]
 car_values = [24000, 22500, 19700, 17500, 14500, 10000, 5800]

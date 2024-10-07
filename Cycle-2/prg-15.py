@@ -9,7 +9,7 @@ def is_skew_symmetric(matrix):
 matrix = np.array([[0, 1, -2],
 [-1, 0, 3],
 [2, -3, 0]])
-
+print(matrix)
 if is_symmetric(matrix):
     print("The matrix is symmetric.")
 elif is_skew_symmetric(matrix):
